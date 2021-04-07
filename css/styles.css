@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+.myblue {
+	background-color: #5B5B5B;
+}
+
+
+
+.myred {
+    background-color: #6C6C6C;
+	
+}
+
+.myheader {
+	background-image: url("../images/header.png");
+	height: 352px;
+	width: 1284px; 
+	background-position: center;	
+}
+
+.myboxsize {
+	height: 600px;
+	
+}
+.mybanner {
+	background-image:url("../images/header.png");
+	height: 352px;
+	width: 1284px;
+}
+
+body {
+	background-image:url("../images/wallpaper-for-desktop-laptop-nc27-night-sky-dark-star-lights.jpg");
+}
+
+.images {
+	background-color: #FFE23B;
+	background-position: center;
+}
+
+.navbar {
+	width: 1150px;
+	height: 30px;
+	position: fixed;
+}
